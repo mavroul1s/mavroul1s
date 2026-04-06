@@ -214,7 +214,7 @@ Research into the internal dynamics of Vision Transformers.
   RESEARCH       Galaxy Morphology -- 0.109 RMSE
                  ViT gradient flow -- attention layer dynamics
   ------------------------------------------------
-  building models that explain the Earth.
+
 ```
 
 ---
