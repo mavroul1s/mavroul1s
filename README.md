@@ -17,10 +17,10 @@ class NikosMavros:
     name       = "Nikos Mavros"
     handle     = "mavroul1s"
     degree     = "Electrical & Computer Engineering (ECE)"
-    university = "University of Thessaly 🎓  —  Volos, Greece 🇬🇷"
+    university = "University of Thessaly   —  Volos, Greece 🇬🇷"
     
     research   = {
-        "flagship"    : "NovHyT — Spatiotemporal Fire Prediction via CNN-Transformer 🔥🛰️",
+        "flagship"    : "NovHyT — Spatiotemporal Fire Prediction via UNETs 🛰️",
         "domains"     : ["Deep Learning", "Computer Vision", "Earth Observation",
                          "Signal Processing", "Audio ML", "Astrophysical ML"],
         "best_result" : "Galaxy Zoo — 0.109 RMSE on blind test 🌌",
