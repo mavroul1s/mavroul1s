@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=200&section=header&text=NIKOS%20MAVROS&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=ECE%20Undergrad%20%7C%20Deep%20Learning%20%7C%20Earth%20Observation%20%7C%20Volos%2C%20Greece%20%F0%9F%87%AC%F0%9F%87%B7&descAlignY=58&descSize=14&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=200&section=header&text=mavroul1s&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=ECE%20Undergrad%20%7C%20Deep%20Learning%20%7C%20Earth%20Observation%20%7C%20Volos%2C%20Greece%20%F0%9F%87%AC%F0%9F%87%B7&descAlignY=58&descSize=14&descColor=8b949e&animation=fadeIn" />
 
 <!-- ══════════════════ TYPING BANNER ══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Building+NovHyT+%E2%80%94+CNN-Transformer+for+wildfire+prediction+%F0%9F%94%A5%F0%9F%9B%B0%EF%B8%8F;%3E+Galaxy+Zoo+%7C+VGG-CNN+%7C+RMSE+0.109+on+blind+test+%F0%9F%8C%8C;%3E+Computer+Vision+%7C+Signal+Processing+%7C+ViT+Research+%F0%9F%94%AC;%3E+ECE+%40+University+of+Thessaly+%7C+Volos%2C+Greece+%F0%9F%87%AC%F0%9F%87%B7;%3E+always+training%2C+always+learning...+%E2%96%88)](https://git.io/typing-svg)
@@ -29,7 +29,7 @@ class NikosMavros:
     
     currently  = "ECE452 · Applying ViT temporal attention to VIIRS wildfire data"
     kaggle     = "kaggle.com/nmavros"
-    vibe       = "Building models that explain the Earth — one epoch at a time 🚀"
+    vibe       = "Building models that explain the Earth — one epoch at a time "
 ```
 
 ---
