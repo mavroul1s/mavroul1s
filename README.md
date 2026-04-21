@@ -1,13 +1,20 @@
 <div align="center">
 
 ```
-   ███╗   ██╗   ███╗   ███╗ █████╗ ██╗   ██╗██████╗  ██████╗ ███████╗
-   ████╗  ██║   ████╗ ████║██╔══██╗██║   ██║██╔══██╗██╔═══██╗██╔════╝
-   ██╔██╗ ██║   ██╔████╔██║███████║██║   ██║██████╔╝██║   ██║███████╗
-   ██║╚██╗██║   ██║╚██╔╝██║██╔══██║╚██╗ ██╔╝██╔══██╗██║   ██║╚════██║
-   ██║ ╚████║██╗██║ ╚═╝ ██║██║  ██║ ╚████╔╝ ██║  ██║╚██████╔╝███████║
-   ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-                  >> ece undergrad · volos, GR · @mavroul1s <<
+    ┌──────────────────────────────────────────────────────────────────────┐
+    │ [ terminal ] ─────────────────────────────────────────  _  □  x     │
+    ├──────────────────────────────────────────────────────────────────────┤
+    │                                                                      │
+    │    ███╗   ██╗   ███╗   ███╗ █████╗ ██╗   ██╗██████╗  ██████╗ ███████╗│
+    │    ████╗  ██║   ████╗ ████║██╔══██╗██║   ██║██╔══██╗██╔═══██╗██╔════╝│
+    │    ██╔██╗ ██║   ██╔████╔██║███████║██║   ██║██████╔╝██║   ██║███████╗│
+    │    ██║╚██╗██║   ██║╚██╔╝██║██╔══██║╚██╗ ██╔╝██╔══██╗██║   ██║╚════██║│
+    │    ██║ ╚████║██╗██║ ╚═╝ ██║██║  ██║ ╚████╔╝ ██║  ██║╚██████╔╝███████║│
+    │    ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝│
+    │                                                                      │
+    │              >> ece undergrad · volos, GR · @mavroul1s <<            │
+    │                                                                      │
+    └──────────────────────────────────────────────────────────────────────┘
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+booting+neural+handshake...;%3E+loading+tensors+into+GPU...;%3E+computer+vision+%2F+deep+learning+%2F+touchdesigner;%3E+%5BACCESS+GRANTED%5D+welcome+to+the+grid.)](https://git.io/typing-svg)
@@ -20,6 +27,21 @@
 </div>
 
 ---
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║  BOOT SEQUENCE                                                 [ v4.26 ] ║
+ ╠══════════════════════════════════════════════════════════════════════════╣
+ ║   [  OK  ]  kernel loaded          .............................. done   ║
+ ║   [  OK  ]  mounting /life         .............................. done   ║
+ ║   [  OK  ]  starting coffee.d      .............................. done   ║
+ ║   [  OK  ]  importing torch        .............................. done   ║
+ ║   [  OK  ]  importing cv2          .............................. done   ║
+ ║   [  OK  ]  connecting to GPU      .............................. done   ║
+ ║   [ WARN ]  deadline in 3 days     .............................. retry  ║
+ ║   [  OK  ]  user: nikos            .............................. login  ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 ## `> ./whoami.sh`
 
@@ -43,6 +65,13 @@ status      : CONNECTED · training_in_progress
 
 ---
 
+```
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ░░  SCANNING SYSTEM . . .                                             ░░
+  ░░  [##################################################]  100%       ░░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
 ## `> cat stack.log`
 
 <p align="center">
@@ -63,12 +92,39 @@ status      : CONNECTED · training_in_progress
 ---
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-░░░░░░░░░░  F E A T U R E D   P R O J E C T S   //   ./ls -la ~/builds
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    1010010 0 10 1   10  0 101 0  10  1 0  1 0100101 01 0
+     01 0101  1 10101 0  1   0  10 1  01  0 1  01 010 1 0
+    0   10 01 0  101  10 1010  0 10 01 1 0 10 01   1  01
+   ┌──────────────────────────────────────────────────────┐
+   │  F E A T U R E D   P R O J E C T S                   │
+   │  >>  ./ls -la ~/builds                               │
+   └──────────────────────────────────────────────────────┘
+   1 01 0 1 01 0  01 01 01010  10 1 0101 0 1  0 01 01 01 0
+    0 1  1 01 01 0  010 10  1 01 01 0  10 10 10 01 1 0 1
+   0 10 0  10 0 1 01 0  1 0 1 0  10 10 1 0 1 0  10 101  10
 ```
 
-### ╔══ [ 01 ] ══▶ [KinetiCore](https://github.com/mavroul1s/KinetiCore) `// ★ flagship`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+scanning+~%2Fbuilds...;%3E+5+artifacts+recovered;%3E+decrypting+project+headers...)](https://git.io/typing-svg)
+
+---
+
+### `[ 01 ]` — [KinetiCore](https://github.com/mavroul1s/KinetiCore)   `// flagship`
+
+```
+                       _ _ _ _
+                      | | | | |
+                      | | | | |      bare hands.
+                      | | | | |      no mouse.
+                    __| | | | |__    no keyboard.
+                   |             |
+                   |   palm.map  |
+                   |_____________|
+                          |
+                          |
+                        /_|_\
+                    ───'     '───
+                       [ cam ]
+```
 
 > *Bridging physical intent and execution. An experimental sandbox for low-latency computer vision, enabling bare-hand spatial manipulation and biometric mapping.*
 
@@ -80,13 +136,28 @@ status      : CONNECTED · training_in_progress
   └─────────────────────────────────────────────────────────┘
 ```
 
-A sandbox of standalone Python experiments — hand-gesture control, half-face tracking, interactive molecule manipulation, index-cube spatial input, screen mirroring, and custom dithering filters. Bare-hand interaction, no external sensors, just a camera and the graph.
+Standalone Python experiments — hand-gesture control, half-face tracking, interactive molecule manipulation, index-cube spatial input, screen mirroring, custom dithering filters. Just a camera and the graph.
 
-`python` `opencv` `mediapipe` `real-time-cv`
+`python`  `opencv`  `mediapipe`  `real-time-cv`
 
 ---
 
-### ╔══ [ 02 ] ══▶ [DeepFire-Forecaster](https://github.com/mavroul1s/DeepFire-Forecaster) `// NovHyT`
+### `[ 02 ]` — [DeepFire-Forecaster](https://github.com/mavroul1s/DeepFire-Forecaster)   `// NovHyT`
+
+```
+                )             (
+             (    )     )         )
+         )   (       )      (         )
+           )     )     (        )
+         (   (     )       )        )
+           )    )    (    (     )
+         (     )    )    )   (
+        _|_____|_____|_____|_____|_
+       /                           \
+      /   ~~~   wildfire   ~~~      \
+     /_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\
+        VIIRS · LULC · day_t-n..t
+```
 
 > *Spatiotemporal fire-spread prediction via hybrid CNN–Transformer on multi-spectral satellite imagery.*
 
@@ -96,13 +167,28 @@ A sandbox of standalone Python experiments — hand-gesture control, half-face t
   day_t-n..t     ─┘
 ```
 
-A research implementation integrating a **CNN spatial encoder**, a custom **Spatiotemporal Transformer** with temporal attention, and a **generative decoder** built on transposed convolutions. Trained with a **Masked Focal–Dice Loss** engineered for the severe class imbalance of wildfire data. Academic project under ECE452 (Applied Mathematics).
+CNN spatial encoder + custom Spatiotemporal Transformer with temporal attention + generative decoder built on transposed convolutions. Trained with a **Masked Focal–Dice Loss** engineered for the severe class imbalance of wildfire data. Academic project under ECE452 (Applied Mathematics).
 
-`pytorch` `vision-transformer` `remote-sensing` `research`
+`pytorch`  `vision-transformer`  `remote-sensing`  `research`
 
 ---
 
-### ╔══ [ 03 ] ══▶ [Galaxy-Morphology-CNN](https://github.com/mavroul1s/Galaxy-Morphology-CNN)
+### `[ 03 ]` — [Galaxy-Morphology-CNN](https://github.com/mavroul1s/Galaxy-Morphology-CNN)
+
+```
+        .      .        .    .          .      .
+    .          .   _.-"""""-._          .            .
+         .      .-'           '-.    .        .
+     .       _.'   .   .    .    '._        .     .
+           /    .         .         \   .         .
+      .   | .         .           .  |       .
+           \    .        .   .      /    .       .
+     .     '._     .         .   _.'         .
+         .    '-._           _.-'     .          .
+              .    '-._____.-'    .         .     .
+     .     .        .       .          .       .    .
+           .     .      .        .         .
+```
 
 > *Custom VGG-style CNN on the Galaxy Zoo dataset — 37 probabilistic morphological labels per galaxy.*
 
@@ -110,17 +196,30 @@ A research implementation integrating a **CNN spatial encoder**, a custom **Spat
   ┌──────────────┬──────────────┬──────────────┬───────────────┐
   │   Results    │ Val RMSE     │ Test RMSE    │  Inference    │
   ├──────────────┼──────────────┼──────────────┼───────────────┤
-  │    value     │   0.104      │  0.109 ✔     │  57.3 ms      │
+  │   value      │   0.104      │  0.109       │  57.3 ms      │
   └──────────────┴──────────────┴──────────────┴───────────────┘
 ```
 
-A lightweight (~2.6M params) custom VGG architecture hitting **0.109 RMSE on the blind Kaggle test set** of 79,975 galaxies. Built around a transparent **5-phase experimental pipeline** isolating architectural decisions, with interpretability via learned-filter visualization (edge detectors + center-surround blobs). IEEE-formatted report included.
+Lightweight (~2.6M params) custom VGG hitting **0.109 RMSE on the blind Kaggle test set** of 79,975 galaxies. Transparent **5-phase experimental pipeline** isolating architectural decisions. Interpretability via learned-filter visualization (edge detectors + center-surround blobs). IEEE-formatted report included.
 
-`tensorflow` `cnn` `astro-ml` `kaggle`
+`tensorflow`  `cnn`  `astro-ml`  `kaggle`
 
 ---
 
-### ╔══ [ 04 ] ══▶ [vit-gradient-flow](https://github.com/mavroul1s/vit-gradient-flow)
+### `[ 04 ]` — [vit-gradient-flow](https://github.com/mavroul1s/vit-gradient-flow)
+
+```
+        (o)       (o)       (o)       (o)
+       /|\       /|\       /|\       /|\
+      / | \     / | \     / | \     / | \
+     o  o  o   o  o  o   o  o  o   o  o  o
+      \ | /     \ | /     \ | /     \ | /
+       \|/       \|/       \|/       \|/
+        x─────────x─────────x─────────x
+           ∂L/∂W   .   .   .  jacobian
+        ─────────────────────────────────
+                 self-attention
+```
 
 > *Investigating gradient flow and sensitivity in Vision Transformers — formally, via matrix calculus.*
 
@@ -130,13 +229,28 @@ A lightweight (~2.6M params) custom VGG architecture hitting **0.109 RMSE on the
    output :  saliency maps · condition numbers · flow plots
 ```
 
-Derives the **explicit Jacobian of the self-attention mechanism**, then empirically validates the derivations in **Julia** using automatic differentiation. Compares **Orthogonal vs Xavier/Glorot** initialization for Jacobian conditioning on MNIST-as-patches. Research project under ECE452.
+Derives the **explicit Jacobian of the self-attention mechanism**, then empirically validates in **Julia** using automatic differentiation. Compares **Orthogonal vs Xavier/Glorot** initialization for Jacobian conditioning on MNIST-as-patches. Research project under ECE452.
 
-`julia` `forwarddiff` `vit` `matrix-calculus`
+`julia`  `forwarddiff`  `vit`  `matrix-calculus`
 
 ---
 
-### ╔══ [ 05 ] ══▶ [GMM-Music-Genre-Recognition](https://github.com/mavroul1s/GMM-Music-Genre-Recognition)
+### `[ 05 ]` — [GMM-Music-Genre-Recognition](https://github.com/mavroul1s/GMM-Music-Genre-Recognition)
+
+```
+         ___           ___           ___
+        /   \         /   \         /   \
+       | BLU |       | REG |       | CLS |
+        \___/         \___/         \___/
+          |             |             |
+     ╭────┴─────────────┴─────────────┴────╮
+     │ ▁▂▃▅▇▆▅▃▂▁▁▂▃▅▇▆▅▃▂▁▁▂▃▅▇▆▅▃▂▁     │  ← mfcc stream
+     ╰─────────────────────────────────────╯
+                       |
+                     [ EM ]     ← hand-rolled, no toolbox
+                       |
+                     GMM ─▶ MAP ─▶ decision
+```
 
 > *Blues · Reggae · Classical — distinguished at 100% accuracy using hand-rolled EM + MFCC.*
 
@@ -144,16 +258,20 @@ Derives the **explicit Jacobian of the self-attention mechanism**, then empirica
   wav ──▶ 20ms windows ──▶ MFCC ──▶ CMS + energy-drop ──▶ K-Means init ──▶ EM ──▶ GMM ──▶ MAP decision
 ```
 
-**Not a toolbox wrapper.** The Expectation–Maximization algorithm is manually implemented for GMM training, with K-Means used for robust parameter initialization. Maximum A Posteriori classification. Achieves **100% accuracy** at both M=8 and M=16 Gaussian components. Course: ECE443 Speech & Audio Processing.
+**Not a toolbox wrapper.** Expectation–Maximization manually implemented for GMM training, K-Means for robust parameter initialization, Maximum A Posteriori classification. Achieves **100% accuracy** at M=8 and M=16 Gaussian components. ECE443 Speech & Audio Processing.
 
-`matlab` `gmm` `em-algorithm` `mfcc` `speech-processing`
+`matlab`  `gmm`  `em-algorithm`  `mfcc`  `speech-processing`
 
 ---
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-░░░░░░░░░░  C O U R S E W O R K   R E P O S
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ▓▓░▓░▓░░▓░▓░░▓▓░░░▓░░▓▓░░░░▓░░▓░▓░░▓▓▓░░▓░░░▓░░▓░▓░░▓▓░▓░░░▓░░░▓░░░
+   ▓░░▓░░▓░░░▓░▓░░░░░▓░░░░▓░▓░░░▓░░░░▓▓░░▓▓░▓░░░░▓░▓░░░▓░░▓░▓░░░▓░░░
+   ┌────────────────────────────────────────────────┐
+   │  C O U R S E W O R K   R E P O S              │
+   └────────────────────────────────────────────────┘
+   ░▓░▓▓░░▓░░░▓░▓▓░▓░▓░░▓▓░▓░▓░░░▓▓▓░░░▓░░▓░░░▓▓░░▓░░▓░░▓░░▓▓▓░░▓░░
+   ░░░▓▓░░░▓▓░░░░░▓░░▓▓░▓░░░▓▓░▓░░▓░▓░░░▓▓░░▓░░▓▓░░▓░░░░░▓░░▓▓░▓░░░
 ```
 
 | repo | what | tools |
@@ -164,9 +282,19 @@ Derives the **explicit Jacobian of the self-attention mechanism**, then empirica
 ---
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-░░░░░░░░░░  S Y S T E M   S T A T S
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+            ┌──────────────────────────────────────┐
+            │   INCOMING  TRANSMISSION  .  .  .    │
+            └──────────────────────────────────────┘
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+pulling+system+telemetry...;%3E+aggregating+commit+history...;%3E+rendering+snake.svg...;%3E+done.)](https://git.io/typing-svg)
+
+---
+
+```
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │   S Y S T E M   S T A T S                                           │
+   └─────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -176,24 +304,49 @@ Derives the **explicit Jacobian of the self-attention mechanism**, then empirica
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavroul1s&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" />
 
+<!-- Contribution snake (requires Platane/snk GitHub Action — see note below) -->
+<img src="https://raw.githubusercontent.com/mavroul1s/mavroul1s/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
 </div>
 
 ---
 
 ```
-        ▓▓▓ connection  secured ▓▓▓
-  ╔════════════════════════════════════╗
-  ║   > signing off.                   ║
-  ║   > terminal → idle                ║
-  ║   > see you in the next commit.    ║
-  ╚════════════════════════════════════╝
-                                    ▄▄▄
-                                   ▐███▌
-             ┌──┐                   ▀▀▀
-       ╔═════╡░░╞══════════════════╗
-       ║     └──┘                  ║
-       ║  [ END OF TRANSMISSION ]  ║
-       ╚═══════════════════════════╝
+                         _____________
+                        /             \
+                       /   _______     \
+                      /   /       \     \
+                     |   |  x   x  |     |
+                     |   |   ___   |     |
+                      \   \_______/     /
+                       \               /
+                        \_____________/
+                        /| | | | | | |\
+                       / | | | | | | | \
+                      /__|_|_|_|_|_|_|__\
+                         |           |
+                         | [ ACCESS ]|
+                         |   GRANTED |
+                         |___________|
+```
+
+```
+ ╔════════════════════════════════════════════════════════════════╗
+ ║   connection  :  secured                                       ║
+ ║   uptime      :  4+ years of caffeine                          ║
+ ║   next run    :  commit pending . . .                          ║
+ ║   signing off :  see you in the next push.                     ║
+ ╚════════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+closing+socket...;%3E+flushing+buffers...;%3E+logout.)](https://git.io/typing-svg)
+
+```
+               . . . terminal  →  idle . . .
+                        _
+                       | |
+                       |_|
+                        ¯
 ```
 
 <div align="center">
