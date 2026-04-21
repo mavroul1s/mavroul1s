@@ -239,7 +239,7 @@ STFT spectrograms (narrowband / wideband F0 analysis), time-domain segmentation,
 
 ```
     ┌──────┐     ┌──────┐     ┌──────┐     ┌──────┐
-    │ img  │ ──▶ │ blur │ ──▶ │ grad │ ──▶ │ edge │
+    │ img  │ ──▶  blur    ──▶  grad  ──▶   edge 
     └──────┘     └──────┘     └──────┘     └──────┘
                   Gaussian     Sobel /      Canny
                   Median       Prewitt      output
