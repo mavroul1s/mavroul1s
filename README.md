@@ -1,212 +1,152 @@
 <div align="center">
 
 ```
-    ┌──────────────────────────────────────────────────────────────────────┐
-    │ [ terminal ] ─────────────────────────────────────────  _  □  x      │
-    ├──────────────────────────────────────────────────────────────────────┤
-    │                                                                      │
-    │    ███╗   ██╗   ███╗   ███╗ █████╗ ██╗   ██╗██████╗  ██████╗ ███████╗│
-    │    ████╗  ██║   ████╗ ████║██╔══██╗██║   ██║██╔══██╗██╔═══██╗██╔════╝│
-    │    ██╔██╗ ██║   ██╔████╔██║███████║██║   ██║██████╔╝██║   ██║███████╗│
-    │    ██║╚██╗██║   ██║╚██╔╝██║██╔══██║╚██╗ ██╔╝██╔══██╗██║   ██║╚════██║│
-    │    ██║ ╚████║██╗██║ ╚═╝ ██║██║  ██║ ╚████╔╝ ██║  ██║╚██████╔╝███████║│
-    │    ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝│
-    │                                                                      │
-    │              >> ece undergrad · volos, GR · @mavroul1s <<            │
-    │                                                                      │
-    └──────────────────────────────────────────────────────────────────────┘
+     ███╗   ██╗   ███╗   ███╗ █████╗ ██╗   ██╗██████╗  ██████╗ ███████╗
+     ████╗  ██║   ████╗ ████║██╔══██╗██║   ██║██╔══██╗██╔═══██╗██╔════╝
+     ██╔██╗ ██║   ██╔████╔██║███████║██║   ██║██████╔╝██║   ██║███████╗
+     ██║╚██╗██║   ██║╚██╔╝██║██╔══██║╚██╗ ██╔╝██╔══██╗██║   ██║╚════██║
+     ██║ ╚████║██╗██║ ╚═╝ ██║██║  ██║ ╚████╔╝ ██║  ██║╚██████╔╝███████║
+     ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+booting+neural+handshake...;%3E+loading+tensors+into+GPU...;%3E+computer+vision+%2F+deep+learning+%2F+touchdesigner;%3E+%5BACCESS+GRANTED%5D+welcome+to+the+grid.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=ECE+undergrad+at+the+University+of+Thessaly;computer+vision+%C2%B7+deep+learning+%C2%B7+touchdesigner;building+things+that+see%2C+listen%2C+and+learn.)](https://git.io/typing-svg)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mavroul1s.mavroul1s&left_color=black&right_color=00ff41&left_text=intruders)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/nikos-mavros-37a94a259/)
-[![Instagram](https://img.shields.io/badge/-Instagram-0A0A0A?style=flat-square&logo=instagram&logoColor=00ff41)](https://www.instagram.com/mavroul1s/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-0A0A0A?style=flat-square&logo=kaggle&logoColor=00ff41)](https://www.kaggle.com/nmavros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikos-mavros-37a94a259/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mavroul1s/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nmavros)
 
 </div>
 
 ---
 
-```
- ╔══════════════════════════════════════════════════════════════════════════╗
- ║  BOOT SEQUENCE                                                 [ v4.26 ] ║
- ╠══════════════════════════════════════════════════════════════════════════╣
- ║   [  OK  ]  kernel loaded          .............................. done   ║
- ║   [  OK  ]  mounting /life         .............................. done   ║
- ║   [  OK  ]  starting coffee.d      .............................. done   ║
- ║   [  OK  ]  importing torch        .............................. done   ║
- ║   [  OK  ]  importing cv2          .............................. done   ║
- ║   [  OK  ]  connecting to GPU      .............................. done   ║
- ║   [ WARN ]  deadline in 3 days     .............................. retry  ║
- ║   [  OK  ]  user: nikos            .............................. login  ║
- ╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-## `> ./whoami.sh`
-
-```bash
-┌─[nikos@volos]─[~/life]
-└──╼ $ cat id.json
-```
+## About
 
 ```yaml
-user        : Nikos Mavros
-alias       : mavroul1s
+name        : Nikos Mavros
+handle      : mavroul1s
 role        : Electrical & Computer Engineering — Undergraduate
-node        : University of Thessaly
-location    : Volos, Greece  //  lat 39.36, lon 22.94
-fields      : [ computer_vision, deep_learning, generative_networks ]
-interests   : [ CNN/ViT, gradient_flow, wildfire_forecasting, audio_DSP, live_visuals ]
+university  : University of Thessaly, Volos, Greece
+fields      : computer vision · deep learning · generative networks
+interests   : CNN / ViT architectures, gradient flow, wildfire
+              forecasting, audio DSP, live visuals & installations
 stack       : python · pytorch · tensorflow · opencv · mediapipe
               matlab · julia · touchdesigner
-status      : CONNECTED · training_in_progress
 ```
 
 ---
 
-```
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  ░░  SCANNING SYSTEM . . .                                             ░░
-  ░░  [##################################################]  100%       ░░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-## `> cat stack.log`
+## Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-MediaPipe-0A0A0A?style=for-the-badge&logo=google&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-MATLAB-0A0A0A?style=for-the-badge&logo=mathworks&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-Julia-0A0A0A?style=for-the-badge&logo=julia&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-TouchDesigner-0A0A0A?style=for-the-badge&logo=adobe&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-Kaggle-0A0A0A?style=for-the-badge&logo=kaggle&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/-LaTeX-0A0A0A?style=for-the-badge&logo=latex&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-00B0FF?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TouchDesigner-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 ---
 
 ```
-    1010010 0 10 1   10  0 101 0  10  1 0  1 0100101 01 0
-     01 0101  1 10101 0  1   0  10 1  01  0 1  01 010 1 0
-    0   10 01 0  101  10 1010  0 10 01 1 0 10 01   1  01
-   ┌──────────────────────────────────────────────────────┐
-   │  F E A T U R E D   P R O J E C T S                   │
-   │  >>  ./ls -la ~/builds                               │
-   └──────────────────────────────────────────────────────┘
-   1 01 0 1 01 0  01 01 01010  10 1 0101 0 1  0 01 01 01 0
-    0 1  1 01 01 0  010 10  1 01 01 0  10 10 10 01 1 0 1
-   0 10 0  10 0 1 01 0  1 0 1 0  10 10 1 0 1 0  10 101  10
+   ┌─────────────────────────────────────────────────────────────────┐
+   │                    F E A T U R E D   W O R K                    │
+   └─────────────────────────────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+scanning+~%2Fbuilds...;%3E+5+artifacts+recovered;%3E+decrypting+project+headers...)](https://git.io/typing-svg)
+### [KinetiCore](https://github.com/mavroul1s/KinetiCore)
+
+```
+                        _ _ _ _
+                       | | | | |
+                       | | | | |      bare hands.
+                       | | | | |      no mouse.
+                     __| | | | |__    no keyboard.
+                    |             |
+                    |   palm.map  |
+                    |_____________|
+                           |
+                         /_|_\
+                     ───'     '───
+                        [ cam ]
+```
+
+An experimental sandbox for low-latency computer vision — bare-hand spatial manipulation and biometric mapping. Standalone Python experiments: hand-gesture control, half-face tracking, interactive molecule manipulation, index-cube spatial input, screen mirroring, custom dithering filters. Just a camera and the graph.
+
+```
+  [cam] ──▶ MediaPipe ──▶ gesture graph ──▶ render loop
+    │                                           │
+    └── biometric map ◀── dithering/FX ◀────────┘
+```
+
+`python`  ·  `opencv`  ·  `mediapipe`  ·  `real-time-cv`
 
 ---
 
-### `[ 01 ]` — [KinetiCore](https://github.com/mavroul1s/KinetiCore)   `// flagship`
+### [DeepFire-Forecaster](https://github.com/mavroul1s/DeepFire-Forecaster) — *NovHyT*
 
 ```
-                       _ _ _ _
-                      | | | | |
-                      | | | | |      bare hands.
-                      | | | | |      no mouse.
-                    __| | | | |__    no keyboard.
-                   |             |
-                   |   palm.map  |
-                   |_____________|
-                          |
-                          |
-                        /_|_\
-                    ───'     '───
-                       [ cam ]
+                 )             (
+              (    )     )         )
+          )   (       )      (         )
+            )     )     (        )
+          (   (     )       )        )
+            )    )    (    (     )
+          (     )    )    )   (
+         _|_____|_____|_____|_____|_
+        /                           \
+       /    wildfire   forecaster    \
+      /_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\
+         VIIRS · LULC · day_t-n..t
 ```
 
-> *Bridging physical intent and execution. An experimental sandbox for low-latency computer vision, enabling bare-hand spatial manipulation and biometric mapping.*
-
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │  [cam] ──▶ MediaPipe ──▶ gesture graph ──▶ render loop  │
-  │    │                                           │        │
-  │    └── biometric map ◀── dithering/FX ◀────────┘        │
-  └─────────────────────────────────────────────────────────┘
-```
-
-Standalone Python experiments — hand-gesture control, half-face tracking, interactive molecule manipulation, index-cube spatial input, screen mirroring, custom dithering filters. Just a camera and the graph.
-
-`python`  `opencv`  `mediapipe`  `real-time-cv`
-
----
-
-### `[ 02 ]` — [DeepFire-Forecaster](https://github.com/mavroul1s/DeepFire-Forecaster)   `// NovHyT`
-
-```
-                )             (
-             (    )     )         )
-         )   (       )      (         )
-           )     )     (        )
-         (   (     )       )        )
-           )    )    (    (     )
-         (     )    )    )   (
-        _|_____|_____|_____|_____|_
-       /                           \
-      /   ~~~   wildfire   ~~~      \
-     /_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\
-        VIIRS · LULC · day_t-n..t
-```
-
-> *Spatiotemporal fire-spread prediction via hybrid CNN–Transformer on multi-spectral satellite imagery.*
+Spatiotemporal fire-spread prediction via hybrid **CNN–Transformer** on multi-spectral satellite imagery. CNN spatial encoder + custom Spatiotemporal Transformer with temporal attention + generative decoder on transposed convolutions. Trained with a **Masked Focal–Dice Loss** engineered for the severe class imbalance of wildfire data. Academic project under ECE452 (Applied Mathematics).
 
 ```
   VIIRS thermal  ─┐
-  ESRI LULC      ─┼─▶ [CNN encoder] ─▶ [Spatiotemporal ViT] ─▶ [Temporal Attn Pool] ─▶ fire-probability map
+  ESRI LULC      ─┼─▶ [CNN encoder] ─▶ [Spatiotemporal ViT] ─▶ [Temporal Attn] ─▶ fire map
   day_t-n..t     ─┘
 ```
 
-CNN spatial encoder + custom Spatiotemporal Transformer with temporal attention + generative decoder built on transposed convolutions. Trained with a **Masked Focal–Dice Loss** engineered for the severe class imbalance of wildfire data. Academic project under ECE452 (Applied Mathematics).
-
-`pytorch`  `vision-transformer`  `remote-sensing`  `research`
+`pytorch`  ·  `vision-transformer`  ·  `remote-sensing`  ·  `research`
 
 ---
 
-### `[ 03 ]` — [Galaxy-Morphology-CNN](https://github.com/mavroul1s/Galaxy-Morphology-CNN)
+### [Galaxy-Morphology-CNN](https://github.com/mavroul1s/Galaxy-Morphology-CNN)
 
 ```
-        .      .        .    .          .      .
-    .          .   _.-"""""-._          .            .
-         .      .-'           '-.    .        .
-     .       _.'   .   .    .    '._        .     .
-           /    .         .         \   .         .
-      .   | .         .           .  |       .
-           \    .        .   .      /    .       .
-     .     '._     .         .   _.'         .
-         .    '-._           _.-'     .          .
-              .    '-._____.-'    .         .     .
-     .     .        .       .          .       .    .
-           .     .      .        .         .
+            .     .  *    .   *      .  .       *    .
+      .   *    .         .       .     .       .  .
+         .   .       _.-""""-._      .        .   .
+          .      _.-'  *  .  * '-._      .      .     *
+      .    *   /  .     .      .  \   .     .       .
+               | *   .   .    *   |      *     .   .
+          .    \ .   *       .  ./   .      .
+            .   '-.__  *  ___.-'    *      .     *
+         .         '""""""'    *      .      .
+               .    *     .     *   .     *    .
 ```
 
-> *Custom VGG-style CNN on the Galaxy Zoo dataset — 37 probabilistic morphological labels per galaxy.*
+Custom **VGG-style CNN** on the Galaxy Zoo dataset — 37 probabilistic morphological labels per galaxy. Lightweight (~2.6M params), hitting **0.109 RMSE on the blind Kaggle test set** of 79,975 galaxies. Transparent 5-phase experimental pipeline isolating architectural decisions, interpretability via learned-filter visualization (edge detectors + center-surround blobs). IEEE-formatted report included.
 
 ```
   ┌──────────────┬──────────────┬──────────────┬───────────────┐
   │   Results    │ Val RMSE     │ Test RMSE    │  Inference    │
   ├──────────────┼──────────────┼──────────────┼───────────────┤
-  │   value      │   0.104      │  0.109       │  57.3 ms      │
+  │    value     │   0.104      │   0.109      │   57.3 ms     │
   └──────────────┴──────────────┴──────────────┴───────────────┘
 ```
 
-Lightweight (~2.6M params) custom VGG hitting **0.109 RMSE on the blind Kaggle test set** of 79,975 galaxies. Transparent **5-phase experimental pipeline** isolating architectural decisions. Interpretability via learned-filter visualization (edge detectors + center-surround blobs). IEEE-formatted report included.
-
-`tensorflow`  `cnn`  `astro-ml`  `kaggle`
+`tensorflow`  ·  `cnn`  ·  `astro-ml`  ·  `kaggle`
 
 ---
 
-### `[ 04 ]` — [vit-gradient-flow](https://github.com/mavroul1s/vit-gradient-flow)
+### [vit-gradient-flow](https://github.com/mavroul1s/vit-gradient-flow)
 
 ```
         (o)       (o)       (o)       (o)
@@ -221,133 +161,110 @@ Lightweight (~2.6M params) custom VGG hitting **0.109 RMSE on the blind Kaggle t
                  self-attention
 ```
 
-> *Investigating gradient flow and sensitivity in Vision Transformers — formally, via matrix calculus.*
+Investigating gradient flow and sensitivity in **Vision Transformers** — formally, via matrix calculus. Derives the explicit Jacobian of the self-attention mechanism, then empirically validates in **Julia** using automatic differentiation. Compares **Orthogonal** vs **Xavier/Glorot** initialization for Jacobian conditioning on MNIST-as-patches. Research project under ECE452.
 
 ```
-   ∂L/∂W  :  orthogonal_init ( Wᵀ W = I )  vs  xavier/glorot
-   verify :  julia + ForwardDiff.jl  ⟺  hand-derived jacobians
-   output :  saliency maps · condition numbers · flow plots
+  ∂L/∂W  :  orthogonal_init ( Wᵀ W = I )  vs  xavier/glorot
+  verify :  julia + ForwardDiff.jl  ⟺  hand-derived jacobians
+  output :  saliency maps · condition numbers · flow plots
 ```
 
-Derives the **explicit Jacobian of the self-attention mechanism**, then empirically validates in **Julia** using automatic differentiation. Compares **Orthogonal vs Xavier/Glorot** initialization for Jacobian conditioning on MNIST-as-patches. Research project under ECE452.
-
-`julia`  `forwarddiff`  `vit`  `matrix-calculus`
+`julia`  ·  `forwarddiff`  ·  `vit`  ·  `matrix-calculus`
 
 ---
 
-### `[ 05 ]` — [GMM-Music-Genre-Recognition](https://github.com/mavroul1s/GMM-Music-Genre-Recognition)
+### [GMM-Music-Genre-Recognition](https://github.com/mavroul1s/GMM-Music-Genre-Recognition)
 
 ```
-         ___           ___           ___
-        /   \         /   \         /   \
-       | BLU |       | REG |       | CLS |
-        \___/         \___/         \___/
-          |             |             |
-     ╭────┴─────────────┴─────────────┴────╮
-     │ ▁▂▃▅▇▆▅▃▂▁▁▂▃▅▇▆▅▃▂▁▁▂▃▅▇▆▅▃▂▁     │  ← mfcc stream
-     ╰─────────────────────────────────────╯
-                       |
-                     [ EM ]     ← hand-rolled, no toolbox
-                       |
-                     GMM ─▶ MAP ─▶ decision
+          ___           ___           ___
+         /   \         /   \         /   \
+        | BLU |       | REG |       | CLS |
+         \___/         \___/         \___/
+           |             |             |
+      ╭────┴─────────────┴─────────────┴────╮
+      │ ▁▂▃▅▇▆▅▃▂▁▁▂▃▅▇▆▅▃▂▁▁▂▃▅▇▆▅▃▂▁     │  mfcc stream
+      ╰─────────────────────────────────────╯
+                        |
+                      [ EM ]     hand-rolled, no toolbox
+                        |
+                      GMM ──▶ MAP ──▶ decision
 ```
 
-> *Blues · Reggae · Classical — distinguished at 100% accuracy using hand-rolled EM + MFCC.*
+Blues · Reggae · Classical — distinguished at **100% accuracy** using hand-rolled EM + MFCC. Not a toolbox wrapper: Expectation–Maximization manually implemented for GMM training, K-Means for robust parameter initialization, MAP classification. ECE443 Speech & Audio Processing.
 
 ```
-  wav ──▶ 20ms windows ──▶ MFCC ──▶ CMS + energy-drop ──▶ K-Means init ──▶ EM ──▶ GMM ──▶ MAP decision
+  wav ──▶ 20ms windows ──▶ MFCC ──▶ CMS + energy-drop ──▶ K-Means init ──▶ EM ──▶ GMM ──▶ MAP
 ```
 
-**Not a toolbox wrapper.** Expectation–Maximization manually implemented for GMM training, K-Means for robust parameter initialization, Maximum A Posteriori classification. Achieves **100% accuracy** at M=8 and M=16 Gaussian components. ECE443 Speech & Audio Processing.
-
-`matlab`  `gmm`  `em-algorithm`  `mfcc`  `speech-processing`
+`matlab`  ·  `gmm`  ·  `em-algorithm`  ·  `mfcc`  ·  `speech-processing`
 
 ---
 
 ```
-   ▓▓░▓░▓░░▓░▓░░▓▓░░░▓░░▓▓░░░░▓░░▓░▓░░▓▓▓░░▓░░░▓░░▓░▓░░▓▓░▓░░░▓░░░▓░░░
-   ▓░░▓░░▓░░░▓░▓░░░░░▓░░░░▓░▓░░░▓░░░░▓▓░░▓▓░▓░░░░▓░▓░░░▓░░▓░▓░░░▓░░░
-   ┌────────────────────────────────────────────────┐
-   │  C O U R S E W O R K   R E P O S              │
-   └────────────────────────────────────────────────┘
-   ░▓░▓▓░░▓░░░▓░▓▓░▓░▓░░▓▓░▓░▓░░░▓▓▓░░░▓░░▓░░░▓▓░░▓░░▓░░▓░░▓▓▓░░▓░░
-   ░░░▓▓░░░▓▓░░░░░▓░░▓▓░▓░░░▓▓░▓░░▓░▓░░░▓▓░░▓░░▓▓░░▓░░░░░▓░░▓▓░▓░░░
+   ┌─────────────────────────────────────────────────────────────────┐
+   │                      C O U R S E W O R K                        │
+   └─────────────────────────────────────────────────────────────────┘
 ```
 
-| repo | what | tools |
-|---|---|---|
-| [`ECE418-Coursework`](https://github.com/mavroul1s/ECE418-Coursework) | Neuro-Fuzzy Computing — ADALINE/LMS, backprop from scratch, conjugate gradient, Adadelta, Toeplitz convolution, RNN/LSTM time-series. | `MATLAB` `Python` |
-| [`ECE457-Coursework`](https://github.com/mavroul1s/ECE457-Coursework) | Computer Vision — Otsu binarization, spatial filters (Gaussian/Median → PSNR 26.31 dB), Sobel/Prewitt/Laplacian/Canny, FFT high-pass. | `Python` `OpenCV` |
+### [ECE418-Coursework](https://github.com/mavroul1s/ECE418-Coursework) — *Neuro-Fuzzy Computing*
+
+```
+         input        hidden        output
+          o  ─────▶    o   ─────▶    o
+          o  ─────▶    o   ─────▶    o
+          o  ─────▶    o   ─────▶    o
+             w₁           w₂
+         ───────── backpropagation ─────────▶
+```
+
+ADALINE / LMS, backpropagation from scratch, conjugate gradient, Adadelta optimizer, Toeplitz-matrix convolution, RNN / LSTM time-series prediction. `MATLAB` · `Python`
+
+---
+
+### [ECE443-Coursework](https://github.com/mavroul1s/ECE443-Coursework) — *Speech & Audio Processing*
+
+```
+   amp │    ▂▃▅▇▆▅▃▂      narrowband  ━━━━━━━━━━━
+       │   ▁       ▁     wideband    ━ ━ ━ ━ ━ ━
+       │ ▁           ▁▂▃▅▇▆▅▃▂▁
+       └──────────────────────────▶ t
+         add   ·   cats   ·   apa   ·   robot   ·   whisper
+```
+
+STFT spectrograms (narrowband / wideband F0 analysis), time-domain segmentation, and a deep dive into **Linear Predictive Coding** — source/filter separation, Levinson-Durbin recursion, synthetic impulse-train excitation for robot-voice synthesis, white-noise excitation for whispers. Plus a presentation on the history of electronic synthesizers (Theremin → Moog → DX7). `MATLAB`
+
+---
+
+### [ECE457-Coursework](https://github.com/mavroul1s/ECE457-Coursework) — *Computer Vision*
+
+```
+    ┌──────┐     ┌──────┐     ┌──────┐     ┌──────┐
+    │ img  │ ──▶ │ blur │ ──▶ │ grad │ ──▶ │ edge │
+    └──────┘     └──────┘     └──────┘     └──────┘
+                  Gaussian     Sobel /      Canny
+                  Median       Prewitt      output
+```
+
+Otsu binarization, spatial filters (Gaussian / Median → PSNR 26.31 dB), Sobel / Prewitt / Laplacian / Canny edge detection, FFT high-pass filtering in the frequency domain. `Python` · `OpenCV`
 
 ---
 
 ```
-            ┌──────────────────────────────────────┐
-            │   INCOMING  TRANSMISSION  .  .  .    │
-            └──────────────────────────────────────┘
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+pulling+system+telemetry...;%3E+aggregating+commit+history...;%3E+rendering+snake.svg...;%3E+done.)](https://git.io/typing-svg)
-
----
-
-```
-   ┌─────────────────────────────────────────────────────────────────────┐
-   │   S Y S T E M   S T A T S                                           │
-   └─────────────────────────────────────────────────────────────────────┘
+   ┌─────────────────────────────────────────────────────────────────┐
+   │                         S T A T S                               │
+   └─────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mavroul1s&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavroul1s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mavroul1s&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavroul1s&layout=compact&theme=transparent&hide_border=true&title_color=10B981" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mavroul1s&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" />
-
-<!-- Contribution snake (requires Platane/snk GitHub Action — see note below) -->
-<img src="https://raw.githubusercontent.com/mavroul1s/mavroul1s/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mavroul1s&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" height="160" />
 
 </div>
 
 ---
-
-```
-                         _____________
-                        /             \
-                       /   _______     \
-                      /   /       \     \
-                     |   |  x   x  |     |
-                     |   |   ___   |     |
-                      \   \_______/     /
-                       \               /
-                        \_____________/
-                        /| | | | | | |\
-                       / | | | | | | | \
-                      /__|_|_|_|_|_|_|__\
-                         |           |
-                         | [ ACCESS ]|
-                         |   GRANTED |
-                         |___________|
-```
-
-```
- ╔════════════════════════════════════════════════════════════════╗
- ║   connection  :  secured                                       ║
- ║   uptime      :  4+ years of caffeine                          ║
- ║   next run    :  commit pending . . .                          ║
- ║   signing off :  see you in the next push.                     ║
- ╚════════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+closing+socket...;%3E+flushing+buffers...;%3E+logout.)](https://git.io/typing-svg)
-
-```
-               . . . terminal  →  idle . . .
-                        _
-                       | |
-                       |_|
-                        ¯
-```
 
 <div align="center">
 
