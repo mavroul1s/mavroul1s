@@ -29,9 +29,9 @@ Three contributions:
 
 | Task | Model | Test F1 | IoU |  |
 |---|---|---|---|---|
-| Active Fire | SpaSE-UNet3D (TS=2) | **0.855** | 0.746 |  |
-| Active Fire | SpaSE-UNet3D (TS=1) | 0.854 | 0.745 |  |
-| Fire Progression | SpaSE-UNet3D (TS=2) | **0.424** | 0.269 |  |
+| Active Fire | SpaSE-UNet3D (TS=2) | **0.8549** | 0.7466 |  |
+| Active Fire | SpaSE-UNet3D (TS=1) | 0.8520 | 0.7422 |  |
+| Fire Progression | SpaSE-UNet3D (TS=2) | **0.386** | 0.2380| |
 
 Every notebook is self-contained and reproduces on a Kaggle T4 inside the 12-hour session limit.
 
