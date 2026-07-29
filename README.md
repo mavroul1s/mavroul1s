@@ -27,11 +27,11 @@ Three contributions:
   values are Julian-day or perimeter-ID codes, not a threshold — a prerequisite for any future
   work on that task.
 
-| Task | Model | Test F1 | IoU | vs. published baseline |
+| Task | Model | Test F1 | IoU |  |
 |---|---|---|---|---|
-| Active Fire | SpaSE-UNet3D (TS=2) | **0.855** | 0.746 | +3.2% over SwinUNETR-3D (0.823) |
-| Active Fire | SpaSE-UNet3D (TS=1) | 0.854 | 0.745 | +3.1% |
-| Fire Progression | SpaSE-UNet3D (TS=2) | **0.424** | 0.269 | +4.9% over U-Net-3D (0.375) |
+| Active Fire | SpaSE-UNet3D (TS=2) | **0.855** | 0.746 |  |
+| Active Fire | SpaSE-UNet3D (TS=1) | 0.854 | 0.745 |  |
+| Fire Progression | SpaSE-UNet3D (TS=2) | **0.424** | 0.269 |  |
 
 Every notebook is self-contained and reproduces on a Kaggle T4 inside the 12-hour session limit.
 
